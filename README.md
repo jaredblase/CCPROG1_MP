@@ -11,14 +11,12 @@ An order has the same specs, i.e., same size, same position and number of add-on
 5 pcs per order. If minimum is not met, the employee (and therefore, the program) cannot accept the order.
 The neckline of the ordered shirts can be V (V-neck) or R (round neck). The possible sizes are S (small), M (medium),
 L (large), and X (extra large). The pricing is as follows:
-<br><br>
 <ul>
     <li>100/pc. is the base price</li>
     <li>80/pc, if minimum order is for 300 pcs and at most 500 pcs</li>
     <li>75/pc, if order exceeds 500 pcs</li>
     <li> + 10% on the price per shirt, if size is extra large.</li>
 </ul>
-<br>
 Since the shop caters to personalization of the shirt. There should at least be 1 add on. Add-on can be (one or a
 combination of):
 <ol>
